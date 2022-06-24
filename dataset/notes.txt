@@ -1,1 +1,0 @@
-Everything has been inserted into SQL. Will update db design once all joins completed. 
